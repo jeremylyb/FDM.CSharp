@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Assignment_ADO.NETWebAPI&amp;MVCApp.props" />
+</Project>
