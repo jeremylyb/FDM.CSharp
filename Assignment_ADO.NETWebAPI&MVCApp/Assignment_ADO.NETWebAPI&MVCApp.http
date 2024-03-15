@@ -1,0 +1,6 @@
+@Assignment_ADO.NETWebAPI_MVCApp_HostAddress = http://localhost:5262
+
+GET {{Assignment_ADO.NETWebAPI_MVCApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
