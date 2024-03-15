@@ -1,0 +1,11 @@
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\bin\Debug\net8.0\Pocos.deps.json
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\bin\Debug\net8.0\Pocos.dll
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\bin\Debug\net8.0\Pocos.pdb
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\Pocos.AssemblyInfoInputs.cache
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\Pocos.AssemblyInfo.cs
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\Pocos.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\Pocos.dll
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\refint\Pocos.dll
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\Pocos.pdb
+C:\Users\jerem\Visual_Studio_workspace\Assignment_ADO.NETConnectedModel\Pocos\obj\Debug\net8.0\ref\Pocos.dll
