@@ -1,0 +1,21 @@
+﻿@model List<AcmeCorp.Shopper.UiWebApp.Models.Product>;
+
+@{
+    ViewData["Title"] =  "All";
+}
+
+<h1>All Products</h1>
+<form asp-controller="Library" asp-action="AllProducts" method="get">
+    <input type="text" name="searchStr" placeholder="Product Name contains..." /> <br />
+    <input type="submit" value="Search" />
+
+</form>
+
+@foreach (var product in Model)
+{
+    <p>ProductId: @product.ProductId</p>
+    <p>ProductName: @product.ProductName</p>
+    <p>ProductPrice: @product.ProductPrice</p>
+    <a asp-controller="Library" asp-action="OneProduct" asp-route-id="@product.ProductId">Details</a>
+    <hr />
+}

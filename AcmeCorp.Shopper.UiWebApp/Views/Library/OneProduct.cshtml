@@ -1,0 +1,27 @@
+﻿@model AcmeCorp.Shopper.UiWebApp.Models.Product;
+@{
+    ViewData["Title"] = "One Product";
+}
+
+<h1>Product on Record</h1>
+
+@if (object.ReferenceEquals(Model, null))
+{
+    <h3>Product not found for ProductId value</h3>
+}
+else
+{
+
+    <p>ProductId: @Model.ProductId</p>
+    <p>ProductName: @Model.ProductName</p>
+    <p>ProductPrice: @Model.ProductPrice</p>
+
+    var parms = new Dictionary<string, string>()
+    {
+        {"ProductId",@Model.ProductId.ToString()},
+        {"ProductName",@Model.ProductName},
+        {"ProductPrice",@Model.ProductPrice.ToString()},
+
+    };
+
+}

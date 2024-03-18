@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assignment_ADO.NETWebAPI\u0026MVCApp"
+    "\\Assignment_ADO.NETConnectedModel",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\bin",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\bin\\Debug",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\bin\\Debug\\net8.0",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\Controllers",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\obj",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\obj\\Debug",
+    "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\obj\\Debug\\net8.0"
   ],
-  "SelectedNode": "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\Assignment_ADO.NETWebAPI\u0026MVCApp.sln",
+  "SelectedNode": "\\Assignment_ADO.NETWebAPI\u0026MVCApp\\bin\\Debug\\net8.0",
   "PreviewInSolutionExplorer": false
 }

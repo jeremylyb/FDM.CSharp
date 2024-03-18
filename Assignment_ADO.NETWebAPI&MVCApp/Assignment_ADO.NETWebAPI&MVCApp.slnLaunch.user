@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Assignment_ADO.NETWebAPI\u0026MVCApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
