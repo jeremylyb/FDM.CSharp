@@ -3,29 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI\u0026MVCApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\apiclient\\iproductsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\models\\orderandcartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\apiclient\\productsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\apiclient\\ordersclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\views\\library\\oneproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F5B3DDE-20B6-48E1-8B2A-FD3505DC4CFD}|..\\AcmeCorp.Shopper.OrdersRestAPI\\AcmeCorp.Shopper.OrdersRestAPI.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.ordersrestapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\apiclient\\iproductsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\views\\library\\allproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DD0751E-1AD8-4200-A2DD-00AE63D03031}|Assignment_ADO.NETWebAPI\u0026MVCApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\assignment_ado.netwebapi\u0026mvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DD0751E-1AD8-4200-A2DD-00AE63D03031}|Assignment_ADO.NETWebAPI\u0026MVCApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B7A72AB-A886-48A9-B885-52F228A400C7}|..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj|c:\\users\\jerem\\github\\fdm.csharp\\fdm.csharp\\acmecorp.shopper.uiwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 121,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 94,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,24 +67,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 357,
-          "SelectedChildIndex": 4,
-          "Children": [
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderAndCartItems.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Models\\OrderAndCartItems.cs",
+              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Models\\OrderAndCartItems.cs",
+              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Models\\OrderAndCartItems.cs",
+              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Models\\OrderAndCartItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:19:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersClient.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\OrdersClient.cs",
+              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\OrdersClient.cs",
+              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\OrdersClient.cs",
+              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\OrdersClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:13:50.748Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\Index.cshtml",
-              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T02:56:19.106Z",
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.OrdersRestAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.OrdersRestAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.OrdersRestAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "..\\AcmeCorp.Shopper.OrdersRestAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:59:53.449Z",
               "EditorCaption": ""
             },
             {
@@ -96,88 +115,59 @@
               "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Controllers\\LibraryController.cs",
               "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Controllers\\LibraryController.cs",
               "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Controllers\\LibraryController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBkAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T07:46:52.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsClient.cs",
-              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\ProductsClient.cs",
-              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\ProductsClient.cs",
-              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\ProductsClient.cs",
-              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\ProductsClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T02:13:28.118Z",
+              "WhenOpened": "2024-04-02T07:40:15.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OneProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\OneProduct.cshtml",
-              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\OneProduct.cshtml",
-              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\OneProduct.cshtml",
-              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\OneProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T03:03:42.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IProductsClient.cs",
-              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
-              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
-              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
-              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAABAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Models\\Order.cs",
+              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T01:58:23.517Z",
+              "WhenOpened": "2024-04-04T12:33:34.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI\u0026MVCApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI\u0026MVCApp\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T07:19:01.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AllProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\AllProducts.cshtml",
               "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\AllProducts.cshtml",
               "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\AllProducts.cshtml",
               "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Views\\Library\\AllProducts.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T02:53:17.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T03:17:43.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductsClient.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
+              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
+              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
+              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\APIClient\\IProductsClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:39:09.045Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Models\\Product.cs",
-              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\AcmeCorp.Shopper.UiWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.UiWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\AcmeCorp.Shopper.UiWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T03:55:07.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T09:24:54.027Z"
             }
           ]
         }

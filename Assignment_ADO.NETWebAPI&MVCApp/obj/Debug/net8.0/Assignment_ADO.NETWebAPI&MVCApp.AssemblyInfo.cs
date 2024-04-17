@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment_ADO.NETWebAPI&MVCApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ff39b013b92cbff5991c6a1df62f905e5a4fe0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e81c45786f816835935f3ad49417d6a65dca8b26")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment_ADO.NETWebAPI&MVCApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment_ADO.NETWebAPI&MVCApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

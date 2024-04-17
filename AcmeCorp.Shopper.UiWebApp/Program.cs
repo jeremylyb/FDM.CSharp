@@ -12,6 +12,12 @@ namespace AcmeCorp.Shopper.UiWebApp
             builder.Services.AddControllersWithViews();
 
 
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30); // Adjust session timeout as needed
+                options.Cookie.IsEssential = true;
+            });
+
 
             builder.Services.AddHttpClient("ProductsApiClient",
                 httpClient =>
@@ -24,7 +30,32 @@ namespace AcmeCorp.Shopper.UiWebApp
 
                 });
             builder.Services.AddScoped<IProductsClient, ProductsClient>();
-            
+
+            builder.Services.AddHttpClient("CartsApiClient",
+                httpClient =>
+                {
+                    httpClient.DefaultRequestHeaders
+                                    .Accept
+                                    .Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+
+                    httpClient.BaseAddress = new Uri("https://localHost:7023");
+
+                });
+            builder.Services.AddScoped<ICartsClient, CartsClient>();
+
+
+            builder.Services.AddHttpClient("OrdersApiClient",
+                httpClient =>
+                {
+                    httpClient.DefaultRequestHeaders
+                                    .Accept
+                                    .Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+
+                    httpClient.BaseAddress = new Uri("https://localHost:7200");
+
+                });
+            builder.Services.AddScoped<IOrdersClient, OrdersClient>();
+
 
             var app = builder.Build();
             // Configure the HTTP request pipeline.
@@ -46,6 +77,7 @@ namespace AcmeCorp.Shopper.UiWebApp
                 name: "default",
                 pattern: "{controller=Library}/{action=Index}/{id?}");
 
+            app.UseSession();
             app.Run();
         }
     }

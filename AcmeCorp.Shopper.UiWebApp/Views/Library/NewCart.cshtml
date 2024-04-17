@@ -1,0 +1,13 @@
+﻿@model AcmeCorp.Shopper.UiWebApp.Models.Cart;
+@{
+
+    ViewData["Title"] = "newCart";
+}
+
+<h1>Congrats, you have created a shopping card. You can now shop till you drop!</h1>
+
+<p>Cart Id: @Model.CartId</p>
+<p>Cart Total Product Price: @Model.CartPrice</p>
+
+
+<a asp-controller="Library" asp-action="AllProducts">Go to see all products NOW!</a>

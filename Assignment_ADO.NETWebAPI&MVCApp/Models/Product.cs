@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Assignment_ADO.NETWebAPI_MVCApp.Models;
+namespace AcmeCorp.Shopper.ProductRestAPI.Models;
 
 public partial class Product
 {

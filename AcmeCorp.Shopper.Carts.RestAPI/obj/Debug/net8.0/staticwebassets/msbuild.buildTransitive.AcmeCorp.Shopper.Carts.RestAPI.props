@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AcmeCorp.Shopper.Carts.RestAPI.props" />
+</Project>

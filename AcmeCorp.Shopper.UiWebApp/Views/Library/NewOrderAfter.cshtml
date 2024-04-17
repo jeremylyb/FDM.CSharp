@@ -1,0 +1,24 @@
+﻿@model AcmeCorp.Shopper.UiWebApp.Models.OrderAndCartItems;
+@{
+    ViewData["Title"] = "New Order After";
+}
+
+<h1>New Invoice </h1>
+<br/>
+
+<h3>Order ID: @Model.Order.OrderId</h3>
+<h3>Cart ID: @Model.Order.CartId</h3>
+<h3>Customer Name: @Model.Order.CustomerName</h3>
+<h3>Total Payment: @Model.CartDetailsDTO.Cart.CartPrice</h3>
+<hr />
+
+@foreach (var cartItem in Model.CartDetailsDTO.CartItemsWithProducts)
+{
+    <p>ProductId: @cartItem.Product.ProductId</p>
+    <p>ProductId: @cartItem.Product.ProductName</p>
+    <p>ProductPrice: @cartItem.Product.ProductPrice</p>
+    <br/>
+}
+
+<a asp-controller="Library" asp-action="Index">Go Back to shopping again! Remember to create a new Cart!</a>
+<br />

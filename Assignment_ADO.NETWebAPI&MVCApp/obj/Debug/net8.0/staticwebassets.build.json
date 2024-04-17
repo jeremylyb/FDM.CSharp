@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "41BwWmQVv1NN4FhVZ3hk7oIeqIwdKF/RqvafoSlWbH4=",
-  "Source": "Assignment_ADO.NETWebAPI&MVCApp",
-  "BasePath": "_content/Assignment_ADO.NETWebAPI&MVCApp",
+  "Hash": "zoj37KNr58stu54iPHEczgrcspBzU3TFcScCTEhwQyY=",
+  "Source": "AcmeCorp.Shopper.ProductRestAPI",
+  "BasePath": "_content/AcmeCorp.Shopper.ProductRestAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

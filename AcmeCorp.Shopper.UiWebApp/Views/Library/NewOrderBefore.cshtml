@@ -1,0 +1,14 @@
+﻿@model AcmeCorp.Shopper.UiWebApp.Models.Order;
+@{
+    ViewData["Title"] = "New Order Before";
+}
+
+<h1>New Order</h1>
+ 
+<form asp-controller="Library" asp-action="NewOrderAfter">
+
+    <label asp-for="@Model.CustomerName"> </label><br />
+    <input type="text" asp-for="@Model.CustomerName" /> <br />
+
+    <input type="submit" />
+</form>

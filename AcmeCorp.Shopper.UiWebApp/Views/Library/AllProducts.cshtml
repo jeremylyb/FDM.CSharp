@@ -3,6 +3,8 @@
 @{
     ViewData["Title"] =  "All";
 }
+<h1>Click here to view your current cart items</h1>
+<a asp-controller="Library" asp-action="ViewCart">View Cart</a>
 
 <h1>All Products</h1>
 <form asp-controller="Library" asp-action="AllProducts" method="get">

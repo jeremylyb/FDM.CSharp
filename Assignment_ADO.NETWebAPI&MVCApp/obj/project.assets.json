@@ -8262,9 +8262,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\Assignment_ADO.NETWebAPI&MVCApp.csproj",
-      "projectName": "Assignment_ADO.NETWebAPI&MVCApp",
-      "projectPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\Assignment_ADO.NETWebAPI&MVCApp.csproj",
+      "projectUniqueName": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\AcmeCorp.Shopper.ProductRestAPI.csproj",
+      "projectName": "AcmeCorp.Shopper.ProductRestAPI",
+      "projectPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\AcmeCorp.Shopper.ProductRestAPI.csproj",
       "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\obj\\",
       "projectStyle": "PackageReference",

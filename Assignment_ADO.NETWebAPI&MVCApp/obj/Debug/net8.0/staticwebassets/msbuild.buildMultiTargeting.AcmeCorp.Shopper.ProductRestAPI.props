@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AcmeCorp.Shopper.ProductRestAPI.props" />
+</Project>

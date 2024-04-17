@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj": {}
+    "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj": {
+    "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj",
+        "projectUniqueName": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj",
         "projectName": "Pocos",
-        "projectPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj",
+        "projectPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj",
         "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Pocos\\obj\\",
+        "outputPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Pocos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj": {
+    "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj": {
-                "projectPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj"
+              "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj": {
+                "projectPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Pocos\\Pocos.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj",
+        "projectPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,8 +173,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj"
+              "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Repository\\Repository.csproj"
               }
             }
           }

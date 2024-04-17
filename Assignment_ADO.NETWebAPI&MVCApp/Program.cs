@@ -16,7 +16,7 @@ namespace Assignment_ADO.NETWebAPI_MVCApp
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddDbContext<Assignment_ADO.NETWebAPI_MVCApp.Models.ProductsAcmeContext>(
+            builder.Services.AddDbContext<AcmeCorp.Shopper.ProductRestAPI.Models.ProductsAcmeContext>(
                 options =>
                 {
                     options.UseSqlServer(builder.Configuration.GetConnectionString("CRUDConnection"));

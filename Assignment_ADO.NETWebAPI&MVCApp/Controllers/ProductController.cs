@@ -1,8 +1,8 @@
-﻿using Assignment_ADO.NETWebAPI_MVCApp.Models;
+﻿using AcmeCorp.Shopper.ProductRestAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace Assignment_ADO.NETWebAPI_MVCApp.Controllers
+namespace AcmeCorp.Shopper.ProductRestAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -79,7 +79,7 @@ namespace Assignment_ADO.NETWebAPI_MVCApp.Controllers
         }
 
         [HttpDelete("{productId}")]
-        public async Task<ActionResult<Product>> DeleteBook(int productId)
+        public async Task<ActionResult<Product>> DeleteProduct(int productId)
         {
             var foundProduct = await _context.Products.FindAsync(productId);
             if (object.ReferenceEquals(foundProduct, null))

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ty21LwNRlkWMlAhKYx++Lo/qFYYCfz5aqAXJ71pl5A3Vy+U4bTCISZbx8sVFdbQNqxbqv7WtT6MD8ltSyzE8DQ==",
+  "dgSpecHash": "fhhu8qeSJYydIF4Scmfu1xq4tE2cSsb4Kw2rV73TtZretTioMIL8GXOLFZ2UdRkEZF/GqY+DJmElClonNY9T+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jerem\\Visual_Studio_workspace\\Assignment_ADO.NETConnectedModel\\Assignment_ADO.NETConnectedModel\\Assignment_ADO.NETConnectedModel.csproj",
+  "projectFilePath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETConnectedModel\\Assignment_ADO.NETConnectedModel\\Assignment_ADO.NETConnectedModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jerem\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\jerem\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

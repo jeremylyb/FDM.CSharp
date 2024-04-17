@@ -1,0 +1,33 @@
+﻿@model AcmeCorp.Shopper.UiWebApp.Models.CartDetailsDTO;
+@{
+
+    ViewData["Title"] = "User Cart";
+}
+
+
+
+<h1>Cart Items Total Price: @Model.Cart.CartPrice</h1>
+
+<br />
+
+<a asp-controller="Library" asp-action="AllProducts">Return back to All Products!</a>
+<br />
+
+<a asp-controller="Library" asp-action="ClearAllProducts">Remove all items in Cart!</a>
+<br />
+
+<a asp-controller="Library" asp-action="NewOrderBefore">Time to Checkout!</a>
+
+<br />
+
+<h1>Cart Records</h1>
+
+@foreach (var cartItem in Model.CartItemsWithProducts)
+{
+    <p>ProductId: @cartItem.Product.ProductId</p>
+    <p>ProductId: @cartItem.Product.ProductName</p>
+    <p>ProductPrice: @cartItem.Product.ProductPrice</p>
+
+    <a asp-controller="Library" asp-action="DeleteProductFromCart" asp-route-productId="@cartItem.Product.ProductId">Remove Product from Cart</a>
+    <hr />
+}

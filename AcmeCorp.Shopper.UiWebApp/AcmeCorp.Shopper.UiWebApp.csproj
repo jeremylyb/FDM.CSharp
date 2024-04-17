@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AcmeCorp.Shopper.Carts.RestAPI\AcmeCorp.Shopper.CartsRestAPI.csproj" />
+    <ProjectReference Include="..\Assignment_ADO.NETWebAPI&amp;MVCApp\AcmeCorp.Shopper.ProductRestAPI.csproj" />
+  </ItemGroup>
+
 </Project>

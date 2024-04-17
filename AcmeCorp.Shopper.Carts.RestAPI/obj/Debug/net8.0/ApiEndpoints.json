@@ -1,0 +1,182 @@
+[
+  {
+    "ContainingType": "AcmeCorp.Shopper.CartsRestAPI.Controllers.CartsController",
+    "Method": "CreateCart",
+    "RelativePath": "api/Carts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AcmeCorp.Shopper.CartsRestAPI.Models.Cart",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AcmeCorp.Shopper.CartsRestAPI.Controllers.CartsController",
+    "Method": "ReadAllCarts",
+    "RelativePath": "api/Carts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AcmeCorp.Shopper.CartsRestAPI.Models.Cart, AcmeCorp.Shopper.CartsRestAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AcmeCorp.Shopper.CartsRestAPI.Controllers.CartsController",
+    "Method": "ReadCartByCartId",
+    "RelativePath": "api/Carts/{cartId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AcmeCorp.Shopper.CartsRestAPI.Models.CartDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AcmeCorp.Shopper.CartsRestAPI.Controllers.CartsController",
+    "Method": "DeleteCart",
+    "RelativePath": "api/Carts/{cartId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AcmeCorp.Shopper.CartsRestAPI.Models.Cart",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AcmeCorp.Shopper.CartsRestAPI.Controllers.CartsController",
+    "Method": "UpdateCartAddProduct",
+    "RelativePath": "api/Carts/{cartId}/add-product/{productId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AcmeCorp.Shopper.CartsRestAPI.Models.Cart",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AcmeCorp.Shopper.CartsRestAPI.Controllers.CartsController",
+    "Method": "UpdateCartRemoveProduct",
+    "RelativePath": "api/Carts/{cartId}/remove-product/{productId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AcmeCorp.Shopper.CartsRestAPI.Models.CartItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AcmeCorp.Shopper.CartsRestAPI.Controllers.CartsController",
+    "Method": "UpdateCartClearAllCartItems",
+    "RelativePath": "api/Carts/clear-items/{cartId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AcmeCorp.Shopper.CartsRestAPI.Models.CartItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

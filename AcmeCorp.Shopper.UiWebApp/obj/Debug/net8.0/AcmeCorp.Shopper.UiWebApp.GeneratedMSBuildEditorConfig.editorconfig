@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AcmeCorp.Shopper.UiWebApp
 build_property.RootNamespace = AcmeCorp.Shopper.UiWebApp
@@ -34,8 +42,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jerem/GitHub/FDM.CSharp/FDM.CSharp/AcmeCorp.Shopper.UiWebApp/Views/Library/NewCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxOZXdDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/GitHub/FDM.CSharp/FDM.CSharp/AcmeCorp.Shopper.UiWebApp/Views/Library/NewOrderAfter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxOZXdPcmRlckFmdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/GitHub/FDM.CSharp/FDM.CSharp/AcmeCorp.Shopper.UiWebApp/Views/Library/NewOrderBefore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxOZXdPcmRlckJlZm9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jerem/GitHub/FDM.CSharp/FDM.CSharp/AcmeCorp.Shopper.UiWebApp/Views/Library/OneProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxPbmVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/GitHub/FDM.CSharp/FDM.CSharp/AcmeCorp.Shopper.UiWebApp/Views/Library/ViewCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxWaWV3Q2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jerem/GitHub/FDM.CSharp/FDM.CSharp/AcmeCorp.Shopper.UiWebApp/Views/Shared/Error.cshtml]

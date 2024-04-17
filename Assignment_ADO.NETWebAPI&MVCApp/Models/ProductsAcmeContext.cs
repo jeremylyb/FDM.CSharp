@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace Assignment_ADO.NETWebAPI_MVCApp.Models;
+namespace AcmeCorp.Shopper.ProductRestAPI.Models;
 
 public partial class ProductsAcmeContext : DbContext
 {

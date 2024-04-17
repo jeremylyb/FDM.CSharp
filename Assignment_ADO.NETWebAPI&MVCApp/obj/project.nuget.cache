@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8CIxy1Qeqe2kJFZ6VB9ABG5weHinfM58FScej4qAD07pepjRa8PS5mPO6Y0KAmF0yAjgGTdMGY7UMAtb5CedCg==",
+  "dgSpecHash": "eem9CBqC5u8CYXJPtlYmn48LLmwCHEjCBuoCdH8mojqm7doQY3145c7jwyCoF/8TS8WuwlbljX0jQDnSpi1u3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\Assignment_ADO.NETWebAPI&MVCApp.csproj",
+  "projectFilePath": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\AcmeCorp.Shopper.ProductRestAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jerem\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jerem\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,11 +1,34 @@
 {
   "Version": 1,
-  "Hash": "0D3xQOB48zgFPua1Fii5ydoQCqMsBvRJNaTIFUS35wE=",
+  "Hash": "UkbnwfQ3r2v8bOVEboBIfeh9FXIqg2NuT/zCI+B0CnA=",
   "Source": "AcmeCorp.Shopper.UiWebApp",
   "BasePath": "_content/AcmeCorp.Shopper.UiWebApp",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\AcmeCorp.Shopper.Carts.RestAPI\\AcmeCorp.Shopper.CartsRestAPI.csproj",
+      "Version": 2,
+      "Source": "AcmeCorp.Shopper.CartsRestAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Users\\jerem\\GitHub\\FDM.CSharp\\FDM.CSharp\\Assignment_ADO.NETWebAPI&MVCApp\\AcmeCorp.Shopper.ProductRestAPI.csproj",
+      "Version": 2,
+      "Source": "AcmeCorp.Shopper.ProductRestAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "AcmeCorp.Shopper.UiWebApp\\wwwroot",

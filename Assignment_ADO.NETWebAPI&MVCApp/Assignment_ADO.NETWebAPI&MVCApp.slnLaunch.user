@@ -3,11 +3,20 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Name": "Assignment_ADO.NETWebAPI\u0026MVCApp.csproj",
-        "Action": "Start"
+        "Name": "AcmeCorp.Shopper.ProductRestAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
       },
       {
         "Name": "..\\AcmeCorp.Shopper.UiWebApp\\AcmeCorp.Shopper.UiWebApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "..\\AcmeCorp.Shopper.Carts.RestAPI\\AcmeCorp.Shopper.CartsRestAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "..\\AcmeCorp.Shopper.OrdersRestAPI\\AcmeCorp.Shopper.OrdersRestAPI.csproj",
         "Action": "Start"
       }
     ]
